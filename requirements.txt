@@ -1,0 +1,17 @@
+# Data processing
+pandas==2.2.3
+numpy==2.1.3
+scipy==1.14.1
+
+# Visualization
+matplotlib==3.10.0
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.6.1
+xgboost==3.0.1
+optuna==4.0.0
+shap==0.46.0
+
+# Utilities
+joblib==1.4.2
