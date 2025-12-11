@@ -1,0 +1,24 @@
+{
+    "RandomForest": {
+        "n_estimators": 284,
+        "max_depth": 24,
+        "min_samples_split": 7,
+        "min_samples_leaf": 1
+    },
+    "LogisticRegression": {
+        "C": 8.307648449075602,
+        "solver": "lbfgs"
+    },
+    "SVM": {
+        "C": 9.886969146409337,
+        "kernel": "linear",
+        "gamma": "auto"
+    },
+    "XGBoost": {
+        "n_estimators": 268,
+        "learning_rate": 0.07966750188039678,
+        "max_depth": 3,
+        "subsample": 0.6428182071446251,
+        "colsample_bytree": 0.7752847229001598
+    }
+}
